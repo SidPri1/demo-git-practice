@@ -6,7 +6,7 @@ package com.example;
 public class Sample {
 
   /**
-   * This is a constructor 
+   * This is a constructor modified 
    */
   public Sample() {
 

@@ -6,7 +6,7 @@ package com.example;
 public class Sample {
 
   /**
-   * This is a constructor modified 
+   * This is a constructor
    */
   public Sample() {
 
@@ -16,7 +16,6 @@ public class Sample {
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
-  
   //checking commit-msg hook
   public void test(){
 	  System.out.println("Edit by Deepak");

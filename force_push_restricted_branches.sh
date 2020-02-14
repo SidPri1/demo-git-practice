@@ -4,8 +4,7 @@ zero_commit="0000000000000000000000000000000000000000"
 
 # This example allows force pushes for branches named scratch/* and test/*
 force_push_prefix="
-scratch
-test
+master
 "
 
 is_force_push() {

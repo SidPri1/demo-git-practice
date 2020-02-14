@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * This is a class.
+ * This is a sample class.
  */
 public class Sample {
 

@@ -1,0 +1,143 @@
+[33mcommit c7e525ef9260a453bbcae8be91a3c16e62bd2ca3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 18:42:47 2020 +0530
+
+    commiting
+
+[33mcommit 5c37f3760c101ed6c237ad79e2dca173a2816246[m[33m ([m[1;31msid/master[m[33m)[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 16:34:42 2020 +0530
+
+    push 5
+
+[33mcommit 629ebae68d29a0f9b932fad6548873e70033d63b[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 16:34:15 2020 +0530
+
+    push 4
+
+[33mcommit 2dfa283e06749c04049d2fad18f1242299adbcc3[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 16:33:38 2020 +0530
+
+    push 3
+
+[33mcommit 2b13d154c7ad8aced6ede7817fe28d012aaabd64[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 13:06:40 2020 +0530
+
+    commit 3 for push id 2
+
+[33mcommit 16e0fefdd9dc53e7a308da45a8af266014d8217b[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 13:05:59 2020 +0530
+
+    commit 2 for push id 2
+
+[33mcommit 52c0697b4ae4492076b5120e2e7c36d084641869[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 13:05:17 2020 +0530
+
+    commit 1 for push id 2
+
+[33mcommit c114b35d868f82d1ea4e4dcb9333f57522648cb7[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 12:04:51 2020 +0530
+
+    commit 3 for push id
+
+[33mcommit 7d81d15b53504d20096cb44bb926a6616afd4caf[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 12:03:45 2020 +0530
+
+    commit 2 for push id
+
+[33mcommit 00161def3bfa3bc7832650fe25be8ee5f5adbe81[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 17 12:02:53 2020 +0530
+
+    commit 1 for push id
+
+[33mcommit 2a7dc5df55df1510f67056d03356ad5512164df8[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:52:39 2020 +0530
+
+    hooks
+
+[33mcommit ec685bdee3642e17962bc052e0baeff8558d8544[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:50:25 2020 +0530
+
+    .sh is removed from hooks
+
+[33mcommit 7c648cf5c0d5e7a2a99969d0d12cf01bb2344814[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:44:47 2020 +0530
+
+    blocking push ::::: using hooks
+
+[33mcommit 1a188d8cf45fea28392df3c9d5ad6bbbaa375cdf[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:43:04 2020 +0530
+
+    blocking push using hooks
+
+[33mcommit abda45f0b605c6c1ad5c96ee2eea864776e47125[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:32:17 2020 +0530
+
+    checking force-push hooks
+
+[33mcommit 89b5d4b56a850cdc4675c6ebdc53f097c502fa6f[m
+Author: SidPri1 <60878957+SidPri1@users.noreply.github.com>
+Date:   Fri Feb 14 15:29:59 2020 +0530
+
+    Update force_push_restricted_branches.sh
+
+[33mcommit b3c5be448d31d50ef2145eab9cc127fcf6010e15[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:26:15 2020 +0530
+
+    checking HOOKs
+
+[33mcommit 42bb80c694559c79c1ee755710641c384c2faee2[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:21:16 2020 +0530
+
+    adding force_push_restricted_branches.sh hook
+
+[33mcommit 8dd54399c6779e0a491015a684a018578856a8f3[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Fri Feb 14 15:08:22 2020 +0530
+
+    adding pre-receive hook to remote repository
+
+[33mcommit 1a144c54b7b21f05686e54092cc24091bdb1cb5e[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Wed Feb 12 11:40:04 2020 +0530
+
+    checking pre&post-commit hooks
+
+[33mcommit 3a4a7a4ed30c319433d2eecda7ab0920199d937d[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Tue Feb 11 12:29:52 2020 +0530
+
+    testing hooks1
+
+[33mcommit 6da1460aad34725f3aa4582cb773fd0bd82bab4e[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 10 18:43:57 2020 +0530
+
+    Sample.java is modified
+
+[33mcommit b33fe6f49174000d6432a8f5dca42cb20fb85e6e[m
+Author: Siddu <siddupatil119@gmail.com>
+Date:   Mon Feb 10 18:34:56 2020 +0530
+
+    adding Web-App-master folder
+
+[33mcommit 837e44eca0e4cc5fc2207c1eb9a360650e785484[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SidPri1 <60878957+SidPri1@users.noreply.github.com>
+Date:   Mon Feb 10 17:00:01 2020 +0530
+
+    Initial commit

@@ -1,1 +1,2 @@
-git log --oneline sid/master..
+9e968f1 checking pre-receive hook
+b155e96 #hashID 1

@@ -1,8 +1,5 @@
-81be1fa checking hashID 4
-Web-App-master/webapp/src/main/webapp/index.jsp
-git show --oneline --name-only
-b155e96 #hashID 1
-Web-App-master/webapp/src/main/webapp/index.jsp
+9e968f1 checking pre-receive hook
 commit_history.txt
-commits_pushed.txt
+grep.txt
 last_commit_details.txt
+push.txt

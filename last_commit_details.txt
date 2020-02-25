@@ -1,4 +1,4 @@
-6fdf7bf commit1
+6edce27 checking exec of pre-receive hooks1
+Web-App-master/webapp/src/main/webapp/index.jsp
 commit_history.txt
-commits_pushed.txt
 last_commit_details.txt

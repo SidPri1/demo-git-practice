@@ -1,3 +1,0 @@
-ee2965c checking update hook from creating txt files
-commit_history.txt
-last_commit_details.txt

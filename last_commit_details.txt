@@ -1,5 +1,2 @@
-dcd25e9 commiting
-Web-App-master/webapp/src/main/webapp/index.jsp
-commit_history.txt
+c39718e commiting 1
 commits_pushed.txt
-last_commit_details.txt

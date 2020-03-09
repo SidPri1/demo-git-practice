@@ -1,2 +1,3 @@
-c39718e commiting 1
-commits_pushed.txt
+40f90ec development branch added
+commit_history.txt
+last_commit_details.txt

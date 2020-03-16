@@ -124,6 +124,6 @@ case "$refname","$newrev_type" in
 		exit 1
 		;;
 esac
-echo "exiting from update hook" >> updated.txt
+echo "exiting from update hook" 
 # --- Finished
 exit 0
